@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import './style.css'
+import './Style.css'
 import Cookies from 'js-cookie'
 import { startTransition, useEffect, useState } from 'react'
 import toast, { Toaster } from 'react-hot-toast'
